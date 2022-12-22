@@ -7,11 +7,17 @@ import java.nio.file.Path;
 public class MainApp {
     public static void main(String[] args) {
 
+        //1
         WorkWIthFile.checkExistFile();
-        WorkWIthFile.writeOnFile();
-        WorkWIthFile.readFromFile();
-        Image.imageIoWrite();
+        //2
+//        WorkWIthFile.writeOnFile();
+        //3
+//        WorkWIthFile.readFromFile();
+        //4
+//        Image.imageIoWrite();
 
+
+        //5
 //        Animal animal1 = new Animal("Lion", true);
 //
 //        Path path = Path.of("FromAlexeyToJoey/animal.txt");
